@@ -1,11 +1,16 @@
 # Examen
 
 
-El proyecto usa una base de datos mongoDB 
+####El proyecto usa una base de datos mongoDB 
 
-Endpoints:
+####Endpoints:
 
- POST /api/empleados/             Ingresar un empleado
- GET /api/empleados 		Obtener los empleados	
-GET /api/empleados/{id}           Consultar un empleado 
-DELETE /api/empleados/{id}  	Eliminar un empleado
+Ingresar un empleado:      POST /api/empleados/  
+
+Obtener los empleados:      GET /api/empleados 
+
+Consultar un empleado:        GET /api/empleados/{id}  
+
+Eliminar un empleado:          DELETE /api/empleados/{id} 
+
+ 	
